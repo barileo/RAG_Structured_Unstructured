@@ -1,0 +1,301 @@
+customer_id,company_name,tier,product,region,industry,status,acv,mrr,health_score,nps_score,signup_date,last_login_date,days_as_customer,logins_last_30d,support_tickets_q3,csm_owner
+CUST-0001,Peak Solutions,Starter,Cloud Analytics Pro,Southeast,Healthcare,Active,3800,317,87,0,2024-02-14,2024-03-09,229,27,18,Jordan Lee
+CUST-0002,Atlas Systems,Starter,Cloud Analytics Pro,International,Healthcare,Active,7700,642,84,6,2024-04-22,2024-06-02,161,37,14,Jordan Lee
+CUST-0003,Nexus Systems,Growth,Data Pipeline Suite,Northeast,Finance,Active,14100,1175,79,0,2024-06-25,2024-09-02,97,16,19,Sara Okonkwo
+CUST-0004,River Systems,Enterprise,Reporting Dashboard,International,Finance,Active,136600,11383,92,5,2024-04-26,2024-08-02,157,5,9,Jordan Lee
+CUST-0005,Peak Solutions,Starter,Reporting Dashboard,Northeast,Finance,Active,4800,400,82,3,2024-02-06,2024-08-11,237,40,19,Tom Wilder
+CUST-0006,Vertex Labs,Growth,Reporting Dashboard,International,Healthcare,Active,37400,3117,58,6,2024-01-17,2024-05-05,257,25,10,Jordan Lee
+CUST-0007,Peak Dynamics,Growth,Legacy On-Premise,Midwest,Education,Active,28400,2367,71,8,2024-05-14,2024-07-10,139,27,18,Marcus Chen
+CUST-0008,Vertex Technologies,Growth,Cloud Analytics Pro,Pacific Northwest,Healthcare,Active,35100,2925,82,9,2024-07-16,2024-08-18,76,38,12,Tom Wilder
+CUST-0009,Beacon Solutions,Starter,Cloud Analytics Pro,International,Finance,Active,8100,675,61,-1,2024-08-10,2024-09-12,51,29,5,Marcus Chen
+CUST-0010,Summit Technologies,Starter,Cloud Analytics Pro,Southeast,Education,Active,6100,508,52,-1,2024-03-23,2024-06-14,191,49,17,Tom Wilder
+CUST-0011,Vertex Solutions,Enterprise,Reporting Dashboard,Southeast,Healthcare,Active,58700,4892,98,10,2024-02-10,2024-08-23,233,46,2,Jordan Lee
+CUST-0012,Atlas Labs,Enterprise,Legacy On-Premise,International,Healthcare,Active,89800,7483,97,4,2024-04-18,2024-07-30,165,48,17,Marcus Chen
+CUST-0013,Peak Technologies,Growth,Legacy On-Premise,Pacific Northwest,Healthcare,Active,19000,1583,76,-1,2024-04-27,2024-05-13,156,14,18,Jordan Lee
+CUST-0014,Summit Systems,Starter,Reporting Dashboard,Pacific Northwest,Manufacturing,Active,3900,325,82,10,2024-03-08,2024-09-25,206,36,18,Priya Patel
+CUST-0015,Atlas Group,Growth,Cloud Analytics Pro,Midwest,Finance,At Risk,26900,2242,84,1,2024-01-28,2024-05-11,246,41,20,Jordan Lee
+CUST-0016,Beacon Dynamics,Starter,Cloud Analytics Pro,Northeast,Healthcare,Active,3500,292,68,5,2024-04-03,2024-07-26,180,29,8,Jordan Lee
+CUST-0017,River Systems,Enterprise,Cloud Analytics Pro,Pacific Northwest,Healthcare,Active,74900,6242,85,8,2024-07-24,2024-09-12,68,10,1,Jordan Lee
+CUST-0018,Vertex Dynamics,Growth,Legacy On-Premise,Northeast,Healthcare,Active,21900,1825,58,0,2024-02-01,2024-06-03,242,3,10,Tom Wilder
+CUST-0019,Summit Labs,Growth,Cloud Analytics Pro,Northeast,Technology,Active,33800,2817,70,0,2024-05-06,2024-05-27,147,38,18,Tom Wilder
+CUST-0020,Beacon Technologies,Starter,Reporting Dashboard,Southeast,Healthcare,Active,7400,617,60,7,2024-07-21,2024-08-31,71,42,4,Sara Okonkwo
+CUST-0021,Peak Systems,Enterprise,Cloud Analytics Pro,Pacific Northwest,Manufacturing,Active,82000,6833,78,5,2024-06-27,2024-08-03,95,56,2,Marcus Chen
+CUST-0022,Nexus Labs,Starter,Reporting Dashboard,International,Education,At Risk,6200,517,82,2,2024-06-02,2024-06-17,120,60,3,Marcus Chen
+CUST-0023,Atlas Systems,Starter,Reporting Dashboard,Southeast,Manufacturing,Active,3700,308,61,6,2024-05-15,2024-06-08,138,31,16,Jordan Lee
+CUST-0024,Nexus Technologies,Starter,Cloud Analytics Pro,Pacific Northwest,Finance,Churned,8200,683,80,9,2024-03-23,2024-03-26,191,0,14,Tom Wilder
+CUST-0025,Beacon Technologies,Starter,Data Pipeline Suite,International,Technology,Active,8700,725,77,7,2024-08-08,2024-09-28,53,2,4,Marcus Chen
+CUST-0026,Beacon Solutions,Starter,Data Pipeline Suite,Northeast,Education,Active,2800,233,89,2,2024-07-27,2024-08-17,65,47,19,Priya Patel
+CUST-0027,Beacon Technologies,Starter,Cloud Analytics Pro,Northeast,Education,Churned,9400,783,90,3,2024-05-07,2024-08-13,146,0,8,Jordan Lee
+CUST-0028,River Technologies,Starter,Data Pipeline Suite,Northeast,Retail,Active,4800,400,92,4,2024-04-26,2024-07-20,157,1,7,Sara Okonkwo
+CUST-0029,Vertex Group,Starter,Reporting Dashboard,Southeast,Education,Churned,6100,508,83,1,2024-06-18,2024-07-11,104,0,0,Marcus Chen
+CUST-0030,Atlas Systems,Enterprise,Legacy On-Premise,Southeast,Education,Active,168000,14000,83,4,2024-09-18,2024-09-19,12,24,3,Marcus Chen
+CUST-0031,Atlas Systems,Enterprise,Data Pipeline Suite,Southeast,Retail,Churned,60500,5042,91,7,2024-06-09,2024-07-19,113,0,3,Tom Wilder
+CUST-0032,Beacon Technologies,Growth,Reporting Dashboard,International,Healthcare,Active,17700,1475,79,7,2024-03-30,2024-08-18,184,36,19,Sara Okonkwo
+CUST-0033,Nexus Group,Growth,Data Pipeline Suite,Midwest,Manufacturing,Active,34300,2858,75,10,2024-08-14,2024-09-26,47,32,6,Priya Patel
+CUST-0034,Beacon Technologies,Starter,Reporting Dashboard,Pacific Northwest,Healthcare,At Risk,7400,617,54,5,2024-03-16,2024-08-20,198,2,0,Sara Okonkwo
+CUST-0035,Beacon Labs,Growth,Data Pipeline Suite,Midwest,Retail,Active,26000,2167,64,9,2024-01-03,2024-04-03,271,49,3,Priya Patel
+CUST-0036,Summit Dynamics,Starter,Cloud Analytics Pro,International,Healthcare,Active,9300,775,47,7,2024-08-25,2024-09-27,36,35,16,Sara Okonkwo
+CUST-0037,Nexus Labs,Growth,Data Pipeline Suite,Midwest,Retail,At Risk,20400,1700,70,5,2024-05-21,2024-09-11,132,31,16,Marcus Chen
+CUST-0038,Summit Systems,Growth,Reporting Dashboard,Southeast,Finance,Active,45700,3808,60,2,2024-04-28,2024-05-15,155,44,12,Priya Patel
+CUST-0039,River Systems,Growth,Legacy On-Premise,Midwest,Technology,Active,18300,1525,81,10,2024-01-11,2024-07-10,263,24,18,Jordan Lee
+CUST-0040,Nexus Systems,Starter,Legacy On-Premise,International,Education,Active,7900,658,91,6,2024-04-22,2024-08-25,161,14,15,Sara Okonkwo
+CUST-0041,Peak Systems,Growth,Legacy On-Premise,Northeast,Retail,Active,46800,3900,94,-1,2024-07-20,2024-09-13,72,36,18,Jordan Lee
+CUST-0042,Summit Technologies,Growth,Reporting Dashboard,Midwest,Finance,Active,18500,1542,75,9,2024-07-13,2024-07-24,79,48,8,Marcus Chen
+CUST-0043,Nexus Dynamics,Starter,Cloud Analytics Pro,Southeast,Healthcare,Churned,7200,600,89,5,2024-01-21,2024-08-23,253,0,0,Priya Patel
+CUST-0044,Nexus Dynamics,Growth,Data Pipeline Suite,Midwest,Education,Active,14600,1217,68,1,2024-05-11,2024-07-30,142,10,11,Priya Patel
+CUST-0045,Beacon Labs,Enterprise,Reporting Dashboard,International,Education,Active,186200,15517,82,5,2024-04-11,2024-06-28,172,37,2,Jordan Lee
+CUST-0046,Summit Systems,Starter,Cloud Analytics Pro,International,Technology,Active,4800,400,67,7,2024-02-05,2024-09-10,238,41,16,Jordan Lee
+CUST-0047,Beacon Labs,Enterprise,Reporting Dashboard,Midwest,Education,Active,72900,6075,75,10,2024-05-18,2024-09-07,135,51,19,Sara Okonkwo
+CUST-0048,Summit Group,Starter,Reporting Dashboard,Northeast,Technology,Active,4200,350,68,8,2024-08-25,2024-08-27,36,39,18,Marcus Chen
+CUST-0049,Atlas Systems,Growth,Data Pipeline Suite,Southeast,Finance,Active,23600,1967,93,4,2024-05-21,2024-07-22,132,0,17,Jordan Lee
+CUST-0050,Atlas Dynamics,Growth,Data Pipeline Suite,Midwest,Education,Active,38500,3208,83,8,2024-02-17,2024-05-06,226,14,9,Priya Patel
+CUST-0051,River Technologies,Growth,Reporting Dashboard,Midwest,Education,Active,32000,2667,77,5,2024-05-18,2024-07-07,135,16,9,Jordan Lee
+CUST-0052,Peak Group,Starter,Data Pipeline Suite,Northeast,Healthcare,Active,7900,658,57,1,2024-09-25,2024-09-28,5,18,19,Priya Patel
+CUST-0053,Vertex Group,Growth,Cloud Analytics Pro,International,Healthcare,Active,21000,1750,58,10,2024-03-05,2024-03-09,209,55,20,Jordan Lee
+CUST-0054,Nexus Dynamics,Growth,Legacy On-Premise,Southeast,Healthcare,Churned,48600,4050,71,1,2024-09-01,2024-09-17,29,0,3,Sara Okonkwo
+CUST-0055,Beacon Dynamics,Starter,Cloud Analytics Pro,Northeast,Healthcare,Active,8500,708,59,9,2024-05-07,2024-07-04,146,35,3,Tom Wilder
+CUST-0056,Peak Group,Growth,Legacy On-Premise,Southeast,Manufacturing,Active,49600,4133,74,1,2024-01-31,2024-07-10,243,47,19,Priya Patel
+CUST-0057,River Labs,Starter,Data Pipeline Suite,Northeast,Healthcare,Active,6400,533,50,7,2024-08-18,2024-09-02,43,30,19,Jordan Lee
+CUST-0058,Beacon Solutions,Growth,Legacy On-Premise,Pacific Northwest,Education,Active,19300,1608,71,5,2024-04-11,2024-06-19,172,7,13,Priya Patel
+CUST-0059,Summit Group,Enterprise,Data Pipeline Suite,Southeast,Manufacturing,Churned,162300,13525,88,9,2024-08-12,2024-09-26,49,0,3,Marcus Chen
+CUST-0060,Beacon Labs,Starter,Legacy On-Premise,Midwest,Technology,Active,6800,567,67,5,2024-05-08,2024-05-14,145,5,0,Tom Wilder
+CUST-0061,River Systems,Starter,Cloud Analytics Pro,Northeast,Retail,At Risk,6200,517,68,10,2024-04-02,2024-08-01,181,27,18,Jordan Lee
+CUST-0062,River Group,Growth,Cloud Analytics Pro,Northeast,Finance,Active,26500,2208,86,9,2024-07-24,2024-09-03,68,2,17,Jordan Lee
+CUST-0063,Summit Labs,Enterprise,Legacy On-Premise,International,Technology,Active,148600,12383,87,8,2024-01-28,2024-08-09,246,33,6,Tom Wilder
+CUST-0064,Vertex Technologies,Growth,Cloud Analytics Pro,Northeast,Finance,Active,32000,2667,73,5,2024-09-05,2024-09-15,25,1,3,Priya Patel
+CUST-0065,River Systems,Starter,Cloud Analytics Pro,Northeast,Technology,Active,5700,475,47,7,2024-03-19,2024-09-16,195,59,15,Tom Wilder
+CUST-0066,Beacon Systems,Starter,Legacy On-Premise,Northeast,Retail,Active,6400,533,64,1,2024-09-17,2024-09-30,13,55,4,Marcus Chen
+CUST-0067,Vertex Dynamics,Growth,Reporting Dashboard,Pacific Northwest,Finance,Active,39000,3250,92,10,2024-09-07,2024-09-18,23,28,4,Marcus Chen
+CUST-0068,Atlas Labs,Growth,Reporting Dashboard,Northeast,Education,Active,19600,1633,79,10,2024-07-29,2024-08-23,63,20,1,Sara Okonkwo
+CUST-0069,Peak Systems,Starter,Legacy On-Premise,Pacific Northwest,Healthcare,Active,6000,500,77,9,2024-02-21,2024-08-24,222,6,14,Jordan Lee
+CUST-0070,River Labs,Starter,Data Pipeline Suite,Pacific Northwest,Retail,Active,8300,692,56,7,2024-07-22,2024-09-09,70,5,20,Tom Wilder
+CUST-0071,Nexus Labs,Starter,Legacy On-Premise,International,Technology,Active,6900,575,55,1,2024-05-27,2024-09-30,126,47,7,Sara Okonkwo
+CUST-0072,Peak Dynamics,Starter,Cloud Analytics Pro,Midwest,Healthcare,Active,7600,633,41,8,2024-01-29,2024-03-07,245,22,9,Sara Okonkwo
+CUST-0073,Atlas Group,Growth,Data Pipeline Suite,Northeast,Healthcare,Active,13200,1100,79,2,2024-05-03,2024-08-30,150,58,15,Priya Patel
+CUST-0074,Beacon Group,Growth,Cloud Analytics Pro,Midwest,Finance,Active,37100,3092,65,9,2024-06-25,2024-08-23,97,19,18,Marcus Chen
+CUST-0075,Vertex Labs,Growth,Legacy On-Premise,Midwest,Technology,Active,19500,1625,91,8,2024-05-31,2024-06-02,122,1,9,Marcus Chen
+CUST-0076,Vertex Group,Starter,Cloud Analytics Pro,International,Education,Active,6000,500,58,8,2024-04-27,2024-06-15,156,51,19,Priya Patel
+CUST-0077,River Labs,Starter,Data Pipeline Suite,Pacific Northwest,Education,Active,7200,600,59,2,2024-01-18,2024-06-18,256,23,18,Jordan Lee
+CUST-0078,Beacon Technologies,Growth,Data Pipeline Suite,Northeast,Manufacturing,Active,45100,3758,78,10,2024-05-19,2024-08-14,134,16,5,Marcus Chen
+CUST-0079,Vertex Technologies,Growth,Cloud Analytics Pro,Northeast,Healthcare,Churned,44400,3700,80,8,2024-07-06,2024-08-09,86,0,2,Jordan Lee
+CUST-0080,Atlas Technologies,Growth,Reporting Dashboard,International,Retail,Active,42900,3575,78,7,2024-04-29,2024-06-25,154,1,15,Tom Wilder
+CUST-0081,Vertex Solutions,Starter,Legacy On-Premise,Southeast,Education,Active,5300,442,48,1,2024-01-20,2024-03-21,254,31,9,Jordan Lee
+CUST-0082,Atlas Group,Growth,Reporting Dashboard,International,Retail,At Risk,33500,2792,64,9,2024-02-20,2024-02-29,223,39,15,Marcus Chen
+CUST-0083,Beacon Systems,Growth,Legacy On-Premise,Northeast,Finance,Active,14000,1167,78,6,2024-07-02,2024-07-18,90,25,1,Priya Patel
+CUST-0084,Vertex Solutions,Enterprise,Data Pipeline Suite,International,Technology,Active,57600,4800,80,1,2024-03-05,2024-04-28,209,13,18,Tom Wilder
+CUST-0085,Atlas Technologies,Starter,Data Pipeline Suite,Southeast,Healthcare,Active,8300,692,78,6,2024-03-15,2024-04-13,199,34,4,Priya Patel
+CUST-0086,Summit Group,Enterprise,Reporting Dashboard,Northeast,Manufacturing,Active,98600,8217,75,1,2024-03-05,2024-07-05,209,33,13,Jordan Lee
+CUST-0087,Beacon Systems,Starter,Cloud Analytics Pro,Midwest,Manufacturing,Active,3800,317,79,-1,2024-09-23,2024-09-27,7,29,9,Jordan Lee
+CUST-0088,Vertex Labs,Growth,Cloud Analytics Pro,Midwest,Education,At Risk,46400,3867,59,1,2024-06-13,2024-07-19,109,9,19,Priya Patel
+CUST-0089,Beacon Solutions,Starter,Reporting Dashboard,Midwest,Manufacturing,Active,6200,517,69,1,2024-08-08,2024-09-24,53,50,3,Tom Wilder
+CUST-0090,Peak Labs,Growth,Data Pipeline Suite,Midwest,Finance,Active,43100,3592,80,7,2024-02-18,2024-05-24,225,27,10,Marcus Chen
+CUST-0091,Vertex Group,Starter,Cloud Analytics Pro,Pacific Northwest,Technology,Active,2700,225,46,0,2024-07-09,2024-09-19,83,35,4,Tom Wilder
+CUST-0092,Vertex Dynamics,Starter,Legacy On-Premise,Southeast,Education,At Risk,9500,792,67,7,2024-01-27,2024-02-23,247,38,9,Marcus Chen
+CUST-0093,Vertex Labs,Growth,Legacy On-Premise,Northeast,Technology,Active,24000,2000,90,9,2024-05-22,2024-05-29,131,14,18,Tom Wilder
+CUST-0094,Atlas Systems,Starter,Reporting Dashboard,Pacific Northwest,Healthcare,Active,4200,350,88,3,2024-06-22,2024-09-03,100,0,11,Priya Patel
+CUST-0095,Vertex Technologies,Enterprise,Cloud Analytics Pro,Pacific Northwest,Education,Active,129600,10800,82,7,2024-06-23,2024-09-04,99,23,5,Marcus Chen
+CUST-0096,Peak Dynamics,Starter,Data Pipeline Suite,Northeast,Manufacturing,Active,2400,200,45,9,2024-08-05,2024-08-23,56,38,15,Sara Okonkwo
+CUST-0097,Nexus Solutions,Enterprise,Legacy On-Premise,Pacific Northwest,Finance,Active,151700,12642,88,8,2024-06-06,2024-06-14,116,14,1,Tom Wilder
+CUST-0098,Peak Dynamics,Growth,Data Pipeline Suite,Northeast,Finance,Active,21600,1800,62,8,2024-08-08,2024-09-23,53,8,5,Tom Wilder
+CUST-0099,Vertex Systems,Starter,Reporting Dashboard,Pacific Northwest,Retail,Active,8900,742,42,7,2024-08-23,2024-09-20,38,55,2,Tom Wilder
+CUST-0100,Summit Dynamics,Starter,Legacy On-Premise,Southeast,Technology,Active,5200,433,60,9,2024-08-23,2024-09-08,38,5,11,Jordan Lee
+CUST-0101,Peak Group,Growth,Cloud Analytics Pro,Midwest,Finance,Active,39800,3317,69,1,2024-03-27,2024-08-05,187,32,2,Tom Wilder
+CUST-0102,Beacon Dynamics,Growth,Data Pipeline Suite,Northeast,Technology,Active,15900,1325,67,3,2024-03-19,2024-07-16,195,4,20,Sara Okonkwo
+CUST-0103,Atlas Group,Starter,Legacy On-Premise,International,Education,Active,7100,592,79,1,2024-06-10,2024-08-06,112,28,4,Sara Okonkwo
+CUST-0104,Beacon Technologies,Starter,Cloud Analytics Pro,Southeast,Manufacturing,Active,2600,217,69,7,2024-01-30,2024-07-14,244,53,11,Jordan Lee
+CUST-0105,Summit Dynamics,Starter,Legacy On-Premise,Midwest,Manufacturing,Active,6400,533,90,4,2024-01-22,2024-06-25,252,58,14,Marcus Chen
+CUST-0106,Atlas Systems,Growth,Cloud Analytics Pro,Midwest,Technology,Churned,42400,3533,76,3,2024-02-13,2024-04-17,230,0,16,Jordan Lee
+CUST-0107,Nexus Dynamics,Starter,Data Pipeline Suite,Southeast,Finance,Active,9300,775,64,7,2024-06-22,2024-08-04,100,3,19,Jordan Lee
+CUST-0108,Atlas Labs,Starter,Reporting Dashboard,Southeast,Education,At Risk,8800,733,78,2,2024-06-19,2024-07-29,103,37,2,Marcus Chen
+CUST-0109,River Technologies,Starter,Data Pipeline Suite,International,Education,Active,9500,792,59,1,2024-06-17,2024-08-22,105,42,4,Sara Okonkwo
+CUST-0110,Beacon Dynamics,Growth,Data Pipeline Suite,Northeast,Finance,Active,47900,3992,86,7,2024-03-11,2024-07-19,203,4,4,Jordan Lee
+CUST-0111,Summit Group,Starter,Cloud Analytics Pro,Southeast,Manufacturing,Active,3000,250,64,3,2024-04-02,2024-04-14,181,51,19,Sara Okonkwo
+CUST-0112,River Labs,Starter,Data Pipeline Suite,Midwest,Manufacturing,Active,4300,358,87,7,2024-04-29,2024-06-18,154,15,17,Sara Okonkwo
+CUST-0113,Atlas Systems,Starter,Legacy On-Premise,Midwest,Finance,Active,8200,683,72,2,2024-03-23,2024-04-06,191,51,6,Marcus Chen
+CUST-0114,Beacon Systems,Starter,Cloud Analytics Pro,International,Technology,Active,4300,358,88,9,2024-08-18,2024-09-02,43,9,16,Jordan Lee
+CUST-0115,Beacon Labs,Starter,Cloud Analytics Pro,Midwest,Technology,Active,5200,433,63,-1,2024-02-11,2024-03-08,232,14,11,Marcus Chen
+CUST-0116,River Solutions,Starter,Data Pipeline Suite,Northeast,Technology,Active,4300,358,70,-1,2024-03-12,2024-03-17,202,28,15,Jordan Lee
+CUST-0117,Beacon Systems,Starter,Legacy On-Premise,Pacific Northwest,Finance,Active,3900,325,47,9,2024-08-02,2024-08-10,59,50,20,Jordan Lee
+CUST-0118,Peak Labs,Starter,Cloud Analytics Pro,International,Manufacturing,Active,3900,325,49,5,2024-01-01,2024-08-02,273,22,19,Tom Wilder
+CUST-0119,River Group,Starter,Reporting Dashboard,Pacific Northwest,Manufacturing,Churned,6400,533,90,10,2024-01-11,2024-07-28,263,0,12,Jordan Lee
+CUST-0120,Beacon Labs,Starter,Reporting Dashboard,Pacific Northwest,Finance,Active,3900,325,82,8,2024-06-19,2024-08-02,103,2,4,Tom Wilder
+CUST-0121,Nexus Group,Growth,Legacy On-Premise,Midwest,Education,Active,17300,1442,63,4,2024-08-22,2024-09-04,39,18,1,Jordan Lee
+CUST-0122,Nexus Group,Starter,Legacy On-Premise,International,Retail,Active,4000,333,88,0,2024-05-26,2024-06-30,127,55,11,Marcus Chen
+CUST-0123,Nexus Systems,Growth,Legacy On-Premise,Midwest,Retail,Active,23600,1967,66,6,2024-09-11,2024-09-25,19,59,11,Jordan Lee
+CUST-0124,Summit Group,Starter,Data Pipeline Suite,International,Finance,Active,4600,383,45,9,2024-05-31,2024-08-28,122,28,9,Priya Patel
+CUST-0125,Beacon Dynamics,Growth,Reporting Dashboard,International,Retail,Active,21000,1750,58,3,2024-07-26,2024-08-14,66,32,11,Jordan Lee
+CUST-0126,Atlas Systems,Starter,Legacy On-Premise,Pacific Northwest,Healthcare,Active,2500,208,89,0,2024-07-04,2024-07-24,88,60,12,Tom Wilder
+CUST-0127,Atlas Solutions,Starter,Reporting Dashboard,Midwest,Technology,Active,6600,550,73,5,2024-06-09,2024-06-13,113,17,20,Jordan Lee
+CUST-0128,Peak Technologies,Growth,Legacy On-Premise,International,Technology,Active,20500,1708,71,10,2024-04-19,2024-05-21,164,18,19,Priya Patel
+CUST-0129,Peak Labs,Growth,Legacy On-Premise,Pacific Northwest,Education,Active,48700,4058,75,7,2024-02-03,2024-09-08,240,34,17,Marcus Chen
+CUST-0130,River Systems,Starter,Data Pipeline Suite,Southeast,Manufacturing,Active,3800,317,52,8,2024-05-01,2024-09-25,152,1,15,Tom Wilder
+CUST-0131,Vertex Technologies,Starter,Data Pipeline Suite,International,Technology,Churned,2500,208,65,9,2024-09-02,2024-09-29,28,0,16,Sara Okonkwo
+CUST-0132,Peak Group,Enterprise,Reporting Dashboard,Pacific Northwest,Retail,Active,119900,9992,86,0,2024-04-03,2024-08-14,180,27,4,Jordan Lee
+CUST-0133,River Dynamics,Growth,Reporting Dashboard,Northeast,Finance,At Risk,47900,3992,88,6,2024-02-10,2024-07-20,233,12,8,Priya Patel
+CUST-0134,Atlas Dynamics,Starter,Data Pipeline Suite,International,Manufacturing,Active,3200,267,82,-1,2024-06-21,2024-06-27,101,2,18,Jordan Lee
+CUST-0135,Beacon Labs,Growth,Data Pipeline Suite,International,Retail,Active,34700,2892,56,10,2024-05-28,2024-09-09,125,19,20,Priya Patel
+CUST-0136,Atlas Group,Growth,Legacy On-Premise,Pacific Northwest,Education,Active,12400,1033,83,2,2024-08-25,2024-09-15,36,21,6,Marcus Chen
+CUST-0137,Nexus Group,Starter,Data Pipeline Suite,Southeast,Manufacturing,Active,6500,542,60,5,2024-03-03,2024-03-28,211,28,8,Priya Patel
+CUST-0138,Summit Technologies,Starter,Legacy On-Premise,Northeast,Healthcare,Active,8500,708,76,9,2024-04-07,2024-06-25,176,31,5,Sara Okonkwo
+CUST-0139,Beacon Labs,Enterprise,Legacy On-Premise,International,Retail,Active,195000,16250,76,10,2024-01-25,2024-09-07,249,18,1,Tom Wilder
+CUST-0140,Summit Technologies,Starter,Reporting Dashboard,International,Technology,Active,8800,733,67,8,2024-05-15,2024-05-27,138,48,11,Marcus Chen
+CUST-0141,Summit Group,Starter,Data Pipeline Suite,Southeast,Manufacturing,Active,4300,358,64,1,2024-05-23,2024-06-17,130,43,19,Priya Patel
+CUST-0142,Atlas Group,Starter,Reporting Dashboard,International,Finance,Active,8000,667,52,0,2024-07-24,2024-08-11,68,2,16,Jordan Lee
+CUST-0143,Vertex Dynamics,Starter,Legacy On-Premise,Northeast,Manufacturing,Active,9100,758,48,7,2024-06-12,2024-07-26,110,25,5,Tom Wilder
+CUST-0144,River Labs,Starter,Reporting Dashboard,Midwest,Technology,Active,4900,408,83,-1,2024-08-01,2024-09-01,60,19,18,Tom Wilder
+CUST-0145,Atlas Technologies,Starter,Data Pipeline Suite,Pacific Northwest,Manufacturing,Active,5800,483,73,5,2024-07-13,2024-09-25,79,52,4,Jordan Lee
+CUST-0146,Vertex Group,Growth,Legacy On-Premise,Southeast,Retail,Active,16100,1342,68,2,2024-08-29,2024-09-12,32,45,1,Tom Wilder
+CUST-0147,Peak Solutions,Starter,Legacy On-Premise,International,Retail,Active,4500,375,51,6,2024-06-24,2024-08-25,98,22,17,Tom Wilder
+CUST-0148,River Technologies,Growth,Reporting Dashboard,Northeast,Finance,Active,40800,3400,68,8,2024-09-07,2024-09-16,23,30,10,Tom Wilder
+CUST-0149,Summit Labs,Starter,Legacy On-Premise,Midwest,Finance,Active,9600,800,91,1,2024-01-22,2024-09-15,252,45,9,Marcus Chen
+CUST-0150,Peak Technologies,Growth,Legacy On-Premise,Northeast,Healthcare,Churned,43100,3592,72,1,2024-05-19,2024-07-20,134,0,4,Tom Wilder
+CUST-0151,Summit Systems,Starter,Data Pipeline Suite,Northeast,Technology,Active,2800,233,61,3,2024-02-21,2024-08-07,222,0,4,Sara Okonkwo
+CUST-0152,Beacon Solutions,Starter,Reporting Dashboard,Southeast,Finance,Active,7200,600,89,0,2024-04-28,2024-08-13,155,47,17,Priya Patel
+CUST-0153,Vertex Technologies,Starter,Cloud Analytics Pro,Midwest,Retail,Churned,3500,292,87,-1,2024-05-28,2024-08-09,125,0,1,Marcus Chen
+CUST-0154,River Solutions,Starter,Reporting Dashboard,Southeast,Retail,Active,9900,825,74,6,2024-03-09,2024-04-07,205,29,16,Priya Patel
+CUST-0155,River Technologies,Starter,Reporting Dashboard,Northeast,Technology,Active,7900,658,90,8,2024-04-08,2024-08-18,175,39,5,Sara Okonkwo
+CUST-0156,Vertex Labs,Growth,Cloud Analytics Pro,Northeast,Healthcare,Active,29100,2425,70,6,2024-07-15,2024-08-23,77,28,7,Marcus Chen
+CUST-0157,River Group,Starter,Reporting Dashboard,Southeast,Education,Active,3900,325,82,7,2024-06-06,2024-08-27,116,25,5,Jordan Lee
+CUST-0158,Beacon Solutions,Starter,Data Pipeline Suite,Northeast,Retail,Churned,3200,267,87,10,2024-07-10,2024-08-07,82,0,13,Tom Wilder
+CUST-0159,Peak Solutions,Starter,Cloud Analytics Pro,International,Retail,Active,6200,517,63,4,2024-02-27,2024-07-14,216,53,1,Tom Wilder
+CUST-0160,Vertex Systems,Growth,Legacy On-Premise,Pacific Northwest,Education,Active,18200,1517,92,0,2024-09-18,2024-09-21,12,51,14,Sara Okonkwo
+CUST-0161,Nexus Systems,Growth,Cloud Analytics Pro,International,Retail,Active,36900,3075,74,-1,2024-07-21,2024-07-31,71,52,8,Priya Patel
+CUST-0162,Beacon Solutions,Growth,Cloud Analytics Pro,International,Technology,Churned,47400,3950,59,7,2024-08-29,2024-09-10,32,0,1,Sara Okonkwo
+CUST-0163,Vertex Systems,Starter,Legacy On-Premise,Southeast,Retail,Active,5600,467,64,8,2024-03-09,2024-04-24,205,55,20,Jordan Lee
+CUST-0164,River Solutions,Starter,Data Pipeline Suite,Pacific Northwest,Technology,Active,9800,817,69,5,2024-08-05,2024-09-04,56,24,17,Priya Patel
+CUST-0165,Atlas Labs,Growth,Cloud Analytics Pro,Pacific Northwest,Education,Active,26800,2233,56,0,2024-02-04,2024-07-07,239,38,3,Sara Okonkwo
+CUST-0166,Atlas Dynamics,Starter,Data Pipeline Suite,Pacific Northwest,Retail,Active,5500,458,74,7,2024-01-29,2024-08-25,245,32,4,Priya Patel
+CUST-0167,Summit Technologies,Growth,Reporting Dashboard,Northeast,Finance,Active,45100,3758,88,3,2024-06-02,2024-08-13,120,3,8,Sara Okonkwo
+CUST-0168,River Labs,Starter,Legacy On-Premise,International,Finance,Active,7600,633,66,10,2024-07-11,2024-08-09,81,48,5,Priya Patel
+CUST-0169,Atlas Technologies,Enterprise,Legacy On-Premise,Pacific Northwest,Manufacturing,Active,111900,9325,83,6,2024-03-09,2024-06-02,205,15,12,Priya Patel
+CUST-0170,Beacon Dynamics,Starter,Reporting Dashboard,Pacific Northwest,Manufacturing,Active,7800,650,52,0,2024-07-12,2024-08-06,80,38,19,Jordan Lee
+CUST-0171,Peak Labs,Starter,Data Pipeline Suite,Midwest,Healthcare,Active,9000,750,61,4,2024-01-08,2024-09-10,266,59,6,Jordan Lee
+CUST-0172,River Dynamics,Starter,Data Pipeline Suite,Midwest,Healthcare,Active,6400,533,89,8,2024-08-26,2024-09-12,35,41,17,Marcus Chen
+CUST-0173,Atlas Solutions,Starter,Legacy On-Premise,Pacific Northwest,Education,At Risk,5800,483,60,0,2024-07-08,2024-08-06,84,26,10,Tom Wilder
+CUST-0174,Atlas Labs,Enterprise,Legacy On-Premise,Southeast,Healthcare,Active,79400,6617,77,7,2024-05-05,2024-09-08,148,35,15,Marcus Chen
+CUST-0175,Beacon Technologies,Starter,Legacy On-Premise,Northeast,Education,Active,8400,700,50,0,2024-09-07,2024-09-09,23,58,5,Tom Wilder
+CUST-0176,Vertex Labs,Starter,Cloud Analytics Pro,Pacific Northwest,Retail,Active,3100,258,80,9,2024-03-18,2024-04-03,196,13,0,Marcus Chen
+CUST-0177,Nexus Dynamics,Starter,Legacy On-Premise,Midwest,Technology,Active,2100,175,75,6,2024-01-09,2024-06-04,265,46,16,Tom Wilder
+CUST-0178,Beacon Systems,Starter,Legacy On-Premise,Northeast,Technology,Active,9300,775,73,6,2024-04-08,2024-06-16,175,33,19,Marcus Chen
+CUST-0179,Summit Systems,Enterprise,Legacy On-Premise,Midwest,Manufacturing,Active,86500,7208,92,0,2024-02-11,2024-05-25,232,54,20,Jordan Lee
+CUST-0180,Peak Solutions,Starter,Cloud Analytics Pro,Pacific Northwest,Education,At Risk,3400,283,71,1,2024-06-18,2024-06-24,104,54,18,Tom Wilder
+CUST-0181,Vertex Solutions,Starter,Legacy On-Premise,Southeast,Technology,Churned,9400,783,83,7,2024-01-17,2024-05-03,257,0,5,Jordan Lee
+CUST-0182,Vertex Labs,Starter,Legacy On-Premise,Pacific Northwest,Finance,Active,3300,275,55,8,2024-07-18,2024-07-29,74,21,17,Priya Patel
+CUST-0183,Peak Group,Starter,Cloud Analytics Pro,Pacific Northwest,Retail,Active,3900,325,44,6,2024-07-22,2024-09-23,70,1,10,Sara Okonkwo
+CUST-0184,Peak Systems,Starter,Legacy On-Premise,Midwest,Healthcare,Active,7400,617,82,1,2024-05-31,2024-07-05,122,45,7,Jordan Lee
+CUST-0185,Nexus Solutions,Starter,Data Pipeline Suite,Midwest,Finance,Active,4900,408,45,6,2024-06-06,2024-06-23,116,23,14,Jordan Lee
+CUST-0186,Beacon Technologies,Growth,Legacy On-Premise,Pacific Northwest,Technology,Active,13600,1133,90,7,2024-06-15,2024-08-04,107,0,12,Sara Okonkwo
+CUST-0187,Peak Systems,Starter,Data Pipeline Suite,International,Manufacturing,Active,3400,283,64,10,2024-05-17,2024-06-03,136,17,9,Priya Patel
+CUST-0188,Peak Group,Growth,Reporting Dashboard,Midwest,Technology,Active,24400,2033,70,4,2024-09-10,2024-09-14,20,39,19,Sara Okonkwo
+CUST-0189,Vertex Labs,Enterprise,Legacy On-Premise,Southeast,Manufacturing,Active,107000,8917,97,2,2024-06-20,2024-08-01,102,52,13,Marcus Chen
+CUST-0190,River Systems,Growth,Reporting Dashboard,Northeast,Retail,Active,48700,4058,73,5,2024-09-08,2024-09-21,22,50,18,Marcus Chen
+CUST-0191,Atlas Systems,Growth,Data Pipeline Suite,International,Manufacturing,Active,17200,1433,90,7,2024-08-24,2024-09-20,37,28,6,Jordan Lee
+CUST-0192,Vertex Dynamics,Enterprise,Reporting Dashboard,Northeast,Finance,Active,148800,12400,92,10,2024-07-12,2024-09-02,80,28,2,Tom Wilder
+CUST-0193,Atlas Dynamics,Starter,Legacy On-Premise,International,Technology,Active,8300,692,63,5,2024-02-13,2024-03-27,230,49,3,Marcus Chen
+CUST-0194,Summit Systems,Enterprise,Legacy On-Premise,Southeast,Retail,Active,65900,5492,73,5,2024-09-18,2024-09-24,12,35,16,Sara Okonkwo
+CUST-0195,River Systems,Starter,Data Pipeline Suite,Southeast,Technology,Active,5900,492,58,2,2024-02-13,2024-05-03,230,53,3,Marcus Chen
+CUST-0196,Beacon Group,Starter,Legacy On-Premise,Southeast,Retail,Active,2800,233,86,0,2024-06-12,2024-06-15,110,19,2,Jordan Lee
+CUST-0197,Atlas Labs,Starter,Data Pipeline Suite,Northeast,Manufacturing,Active,3400,283,50,8,2024-08-06,2024-08-18,55,14,14,Priya Patel
+CUST-0198,Beacon Dynamics,Growth,Cloud Analytics Pro,International,Healthcare,Active,28000,2333,82,1,2024-04-19,2024-05-16,164,17,6,Tom Wilder
+CUST-0199,River Group,Growth,Reporting Dashboard,Northeast,Retail,Active,14600,1217,86,8,2024-06-09,2024-06-24,113,24,19,Tom Wilder
+CUST-0200,Atlas Solutions,Starter,Data Pipeline Suite,Southeast,Manufacturing,Active,6700,558,83,1,2024-03-01,2024-06-05,213,19,7,Priya Patel
+CUST-0201,Peak Group,Starter,Legacy On-Premise,International,Healthcare,Active,6600,550,67,10,2024-03-29,2024-05-04,185,10,17,Marcus Chen
+CUST-0202,Atlas Systems,Starter,Cloud Analytics Pro,Southeast,Technology,At Risk,5900,492,52,9,2024-09-15,2024-09-22,15,31,20,Sara Okonkwo
+CUST-0203,Vertex Labs,Growth,Cloud Analytics Pro,International,Technology,Active,41800,3483,69,7,2024-05-20,2024-09-15,133,34,7,Priya Patel
+CUST-0204,Peak Systems,Starter,Legacy On-Premise,International,Manufacturing,Active,2900,242,47,0,2024-07-06,2024-09-14,86,52,17,Sara Okonkwo
+CUST-0205,Beacon Labs,Enterprise,Data Pipeline Suite,Southeast,Technology,At Risk,117500,9792,81,1,2024-02-14,2024-04-08,229,55,14,Priya Patel
+CUST-0206,Vertex Group,Starter,Reporting Dashboard,International,Education,Active,5400,450,79,0,2024-04-15,2024-07-14,168,51,6,Tom Wilder
+CUST-0207,Beacon Labs,Starter,Data Pipeline Suite,Southeast,Education,Active,4300,358,76,9,2024-09-20,2024-09-25,10,8,3,Jordan Lee
+CUST-0208,Summit Technologies,Enterprise,Data Pipeline Suite,Northeast,Healthcare,Active,156700,13058,96,6,2024-07-20,2024-09-07,72,9,15,Sara Okonkwo
+CUST-0209,Nexus Labs,Starter,Cloud Analytics Pro,Midwest,Manufacturing,Churned,8000,667,84,10,2024-07-07,2024-09-20,85,0,14,Marcus Chen
+CUST-0210,River Group,Enterprise,Legacy On-Premise,Southeast,Technology,Active,169400,14117,82,6,2024-08-07,2024-09-30,54,31,6,Marcus Chen
+CUST-0211,Beacon Solutions,Starter,Data Pipeline Suite,International,Retail,Active,8300,692,83,9,2024-01-24,2024-02-25,250,40,3,Jordan Lee
+CUST-0212,River Group,Growth,Cloud Analytics Pro,Midwest,Healthcare,At Risk,49800,4150,63,6,2024-06-03,2024-08-26,119,55,5,Jordan Lee
+CUST-0213,Peak Systems,Enterprise,Data Pipeline Suite,Pacific Northwest,Retail,Active,143800,11983,93,1,2024-04-29,2024-04-30,154,41,13,Jordan Lee
+CUST-0214,Peak Systems,Enterprise,Data Pipeline Suite,International,Education,Active,116800,9733,70,2,2024-03-02,2024-03-21,212,44,13,Sara Okonkwo
+CUST-0215,Vertex Technologies,Enterprise,Cloud Analytics Pro,Pacific Northwest,Finance,Active,105100,8758,79,2,2024-03-09,2024-07-23,205,43,20,Jordan Lee
+CUST-0216,Nexus Solutions,Starter,Data Pipeline Suite,Midwest,Finance,Active,7800,650,80,9,2024-07-29,2024-08-04,63,43,19,Priya Patel
+CUST-0217,Beacon Labs,Starter,Legacy On-Premise,Southeast,Retail,Active,4500,375,48,7,2024-02-13,2024-09-18,230,35,7,Jordan Lee
+CUST-0218,Summit Labs,Starter,Data Pipeline Suite,International,Manufacturing,Active,6100,508,87,8,2024-01-28,2024-03-30,246,31,7,Jordan Lee
+CUST-0219,Nexus Technologies,Starter,Cloud Analytics Pro,Southeast,Finance,Active,3100,258,76,1,2024-03-29,2024-08-27,185,49,15,Jordan Lee
+CUST-0220,Vertex Dynamics,Growth,Cloud Analytics Pro,Pacific Northwest,Retail,Active,30300,2525,95,8,2024-07-31,2024-09-10,61,44,13,Jordan Lee
+CUST-0221,Atlas Labs,Starter,Reporting Dashboard,Pacific Northwest,Finance,Churned,2600,217,53,7,2024-03-20,2024-08-18,194,0,17,Sara Okonkwo
+CUST-0222,Nexus Group,Starter,Cloud Analytics Pro,Southeast,Education,Active,5500,458,55,9,2024-02-14,2024-07-19,229,7,13,Tom Wilder
+CUST-0223,Peak Labs,Starter,Data Pipeline Suite,Pacific Northwest,Technology,Active,7700,642,84,6,2024-09-11,2024-09-23,19,33,11,Priya Patel
+CUST-0224,Vertex Group,Starter,Reporting Dashboard,Pacific Northwest,Technology,Active,4700,392,67,1,2024-02-02,2024-05-29,241,45,8,Sara Okonkwo
+CUST-0225,Peak Technologies,Enterprise,Data Pipeline Suite,Southeast,Healthcare,At Risk,88300,7358,73,-1,2024-02-29,2024-03-04,214,47,7,Jordan Lee
+CUST-0226,Atlas Group,Growth,Legacy On-Premise,Northeast,Healthcare,Active,47200,3933,57,5,2024-08-02,2024-09-30,59,20,7,Sara Okonkwo
+CUST-0227,Beacon Group,Growth,Cloud Analytics Pro,International,Finance,Active,14800,1233,58,1,2024-09-21,2024-09-26,9,25,1,Sara Okonkwo
+CUST-0228,Beacon Solutions,Growth,Legacy On-Premise,Pacific Northwest,Finance,Active,18000,1500,91,10,2024-05-04,2024-09-21,149,23,14,Priya Patel
+CUST-0229,Peak Dynamics,Growth,Legacy On-Premise,Pacific Northwest,Healthcare,At Risk,31700,2642,95,8,2024-01-05,2024-02-28,269,0,10,Marcus Chen
+CUST-0230,Atlas Group,Starter,Legacy On-Premise,Midwest,Technology,Active,9800,817,49,5,2024-02-17,2024-06-02,226,58,1,Tom Wilder
+CUST-0231,Peak Solutions,Growth,Cloud Analytics Pro,International,Technology,At Risk,30200,2517,95,0,2024-02-08,2024-07-27,235,36,18,Sara Okonkwo
+CUST-0232,Peak Technologies,Growth,Reporting Dashboard,Midwest,Education,Active,43300,3608,75,4,2024-05-19,2024-06-16,134,4,7,Priya Patel
+CUST-0233,Beacon Technologies,Growth,Legacy On-Premise,Southeast,Retail,Churned,14800,1233,77,7,2024-04-16,2024-06-23,167,0,14,Sara Okonkwo
+CUST-0234,Atlas Group,Enterprise,Reporting Dashboard,International,Technology,Active,82300,6858,97,8,2024-02-16,2024-02-29,227,22,7,Tom Wilder
+CUST-0235,Nexus Technologies,Growth,Data Pipeline Suite,Pacific Northwest,Retail,Active,44200,3683,90,1,2024-05-07,2024-06-08,146,29,3,Priya Patel
+CUST-0236,Nexus Solutions,Starter,Data Pipeline Suite,Northeast,Healthcare,Active,8600,717,63,6,2024-02-13,2024-02-19,230,37,18,Jordan Lee
+CUST-0237,Beacon Labs,Starter,Legacy On-Premise,Northeast,Technology,Active,9200,767,91,3,2024-01-22,2024-05-12,252,3,14,Tom Wilder
+CUST-0238,Vertex Dynamics,Growth,Cloud Analytics Pro,Midwest,Education,Active,27100,2258,77,9,2024-04-05,2024-04-14,178,17,8,Priya Patel
+CUST-0239,Atlas Dynamics,Starter,Reporting Dashboard,Midwest,Retail,Active,9100,758,70,9,2024-05-23,2024-07-26,130,8,12,Priya Patel
+CUST-0240,River Dynamics,Starter,Legacy On-Premise,Southeast,Retail,Active,6400,533,71,6,2024-09-14,2024-09-15,16,24,10,Priya Patel
+CUST-0241,Vertex Labs,Growth,Reporting Dashboard,Pacific Northwest,Retail,Churned,31200,2600,92,5,2024-03-22,2024-05-30,192,0,3,Priya Patel
+CUST-0242,Beacon Labs,Enterprise,Data Pipeline Suite,International,Retail,Churned,103200,8600,96,5,2024-03-29,2024-06-19,185,0,5,Tom Wilder
+CUST-0243,Nexus Technologies,Starter,Cloud Analytics Pro,Southeast,Manufacturing,Churned,6500,542,76,7,2024-09-09,2024-09-25,21,0,17,Priya Patel
+CUST-0244,Nexus Solutions,Enterprise,Data Pipeline Suite,Pacific Northwest,Manufacturing,At Risk,121700,10142,80,3,2024-04-13,2024-04-29,170,21,4,Marcus Chen
+CUST-0245,Peak Solutions,Starter,Data Pipeline Suite,Pacific Northwest,Manufacturing,Active,8900,742,44,7,2024-07-21,2024-09-01,71,6,18,Marcus Chen
+CUST-0246,Atlas Labs,Starter,Legacy On-Premise,Midwest,Education,Churned,4500,375,85,3,2024-07-01,2024-08-10,91,0,7,Sara Okonkwo
+CUST-0247,Atlas Dynamics,Growth,Data Pipeline Suite,Pacific Northwest,Education,At Risk,47900,3992,80,7,2024-01-17,2024-05-10,257,38,5,Tom Wilder
+CUST-0248,Nexus Group,Enterprise,Legacy On-Premise,Northeast,Finance,Active,161800,13483,77,1,2024-06-12,2024-08-09,110,40,5,Marcus Chen
+CUST-0249,River Dynamics,Growth,Cloud Analytics Pro,Southeast,Finance,Active,41500,3458,55,9,2024-08-12,2024-09-06,49,10,13,Sara Okonkwo
+CUST-0250,Nexus Technologies,Growth,Legacy On-Premise,International,Education,Active,40300,3358,69,-1,2024-02-07,2024-04-14,236,18,1,Marcus Chen
+CUST-0251,Peak Technologies,Growth,Legacy On-Premise,Northeast,Education,Active,13000,1083,60,3,2024-09-04,2024-09-18,26,27,0,Tom Wilder
+CUST-0252,Nexus Systems,Enterprise,Data Pipeline Suite,Northeast,Retail,Churned,154600,12883,93,7,2024-05-15,2024-06-09,138,0,9,Priya Patel
+CUST-0253,Atlas Group,Starter,Legacy On-Premise,Northeast,Technology,Active,4900,408,67,-1,2024-09-02,2024-09-08,28,6,6,Priya Patel
+CUST-0254,Summit Group,Starter,Legacy On-Premise,Pacific Northwest,Finance,Active,8300,692,70,8,2024-05-15,2024-08-18,138,41,2,Priya Patel
+CUST-0255,River Dynamics,Growth,Cloud Analytics Pro,Southeast,Retail,At Risk,28600,2383,69,1,2024-02-01,2024-07-22,242,48,4,Jordan Lee
+CUST-0256,Nexus Systems,Growth,Data Pipeline Suite,International,Technology,Active,43600,3633,88,5,2024-08-31,2024-09-10,30,56,18,Sara Okonkwo
+CUST-0257,Peak Solutions,Starter,Cloud Analytics Pro,International,Manufacturing,Active,9200,767,91,9,2024-03-16,2024-04-28,198,60,3,Priya Patel
+CUST-0258,Vertex Systems,Enterprise,Legacy On-Premise,Pacific Northwest,Education,Active,115300,9608,96,1,2024-05-12,2024-08-20,141,58,10,Jordan Lee
+CUST-0259,Vertex Dynamics,Starter,Reporting Dashboard,International,Retail,Active,9300,775,40,9,2024-09-24,2024-09-26,6,7,13,Priya Patel
+CUST-0260,Vertex Systems,Starter,Cloud Analytics Pro,Pacific Northwest,Manufacturing,Active,8200,683,90,8,2024-06-25,2024-09-07,97,16,13,Sara Okonkwo
+CUST-0261,Atlas Systems,Enterprise,Reporting Dashboard,Midwest,Healthcare,Active,142700,11892,91,7,2024-01-20,2024-02-02,254,56,12,Priya Patel
+CUST-0262,Atlas Systems,Starter,Reporting Dashboard,Pacific Northwest,Finance,Active,8500,708,59,5,2024-09-08,2024-09-18,22,55,3,Priya Patel
+CUST-0263,Beacon Group,Starter,Reporting Dashboard,Southeast,Education,Active,5300,442,81,9,2024-08-14,2024-09-17,47,58,6,Sara Okonkwo
+CUST-0264,Beacon Technologies,Starter,Data Pipeline Suite,Pacific Northwest,Finance,Active,7700,642,65,3,2024-09-25,2024-09-27,5,1,18,Priya Patel
+CUST-0265,River Systems,Growth,Legacy On-Premise,Pacific Northwest,Finance,Active,38200,3183,72,1,2024-08-25,2024-09-10,36,25,16,Jordan Lee
+CUST-0266,Peak Dynamics,Starter,Data Pipeline Suite,Midwest,Manufacturing,Active,6400,533,62,-1,2024-05-12,2024-05-25,141,18,2,Sara Okonkwo
+CUST-0267,Atlas Solutions,Starter,Data Pipeline Suite,Northeast,Education,Active,3800,317,53,-1,2024-07-28,2024-08-14,64,1,16,Sara Okonkwo
+CUST-0268,River Solutions,Starter,Cloud Analytics Pro,Northeast,Finance,Active,6900,575,59,8,2024-05-20,2024-09-15,133,57,13,Marcus Chen
+CUST-0269,River Group,Growth,Legacy On-Premise,International,Technology,Active,10300,858,78,1,2024-05-24,2024-06-10,129,43,9,Sara Okonkwo
+CUST-0270,Summit Labs,Starter,Reporting Dashboard,Southeast,Education,Active,7700,642,81,5,2024-03-17,2024-08-18,197,48,16,Jordan Lee
+CUST-0271,Vertex Solutions,Growth,Data Pipeline Suite,Pacific Northwest,Education,Active,29900,2492,73,0,2024-08-02,2024-09-17,59,24,12,Tom Wilder
+CUST-0272,Peak Labs,Growth,Data Pipeline Suite,International,Education,Active,41400,3450,77,7,2024-03-28,2024-07-27,186,11,17,Jordan Lee
+CUST-0273,Vertex Group,Growth,Data Pipeline Suite,Southeast,Education,Active,13600,1133,77,7,2024-06-06,2024-07-10,116,50,13,Marcus Chen
+CUST-0274,Beacon Labs,Growth,Cloud Analytics Pro,Midwest,Technology,Active,44700,3725,92,4,2024-02-06,2024-03-08,237,56,15,Tom Wilder
+CUST-0275,Beacon Labs,Growth,Reporting Dashboard,Midwest,Technology,Active,44800,3733,64,9,2024-04-12,2024-07-02,171,26,10,Priya Patel
+CUST-0276,Beacon Solutions,Growth,Cloud Analytics Pro,Midwest,Finance,Active,35200,2933,66,6,2024-01-30,2024-08-12,244,28,0,Priya Patel
+CUST-0277,Vertex Solutions,Starter,Data Pipeline Suite,Midwest,Technology,Active,3000,250,67,8,2024-07-25,2024-07-30,67,30,13,Jordan Lee
+CUST-0278,Nexus Systems,Starter,Cloud Analytics Pro,Southeast,Manufacturing,Active,3500,292,83,8,2024-05-07,2024-06-10,146,44,7,Marcus Chen
+CUST-0279,River Systems,Starter,Reporting Dashboard,Northeast,Technology,Churned,8600,717,59,7,2024-08-21,2024-08-30,40,0,16,Sara Okonkwo
+CUST-0280,Peak Technologies,Growth,Data Pipeline Suite,Northeast,Retail,Active,10800,900,69,-1,2024-03-08,2024-07-16,206,46,6,Tom Wilder
+CUST-0281,Nexus Systems,Growth,Cloud Analytics Pro,Midwest,Education,Active,20200,1683,89,-1,2024-01-25,2024-07-20,249,41,3,Jordan Lee
+CUST-0282,Vertex Dynamics,Growth,Cloud Analytics Pro,International,Finance,Active,29000,2417,64,1,2024-01-05,2024-05-23,269,26,9,Tom Wilder
+CUST-0283,Vertex Solutions,Starter,Legacy On-Premise,Pacific Northwest,Manufacturing,Active,7800,650,47,4,2024-02-24,2024-09-24,219,12,15,Marcus Chen
+CUST-0284,Nexus Technologies,Growth,Legacy On-Premise,Southeast,Healthcare,At Risk,11600,967,86,-1,2024-09-03,2024-09-25,27,15,10,Jordan Lee
+CUST-0285,River Systems,Starter,Legacy On-Premise,Northeast,Technology,Active,8200,683,44,5,2024-02-21,2024-05-07,222,41,8,Sara Okonkwo
+CUST-0286,Atlas Labs,Enterprise,Data Pipeline Suite,Pacific Northwest,Finance,Active,104000,8667,91,0,2024-02-29,2024-04-05,214,54,3,Jordan Lee
+CUST-0287,River Systems,Growth,Reporting Dashboard,Midwest,Manufacturing,Active,20700,1725,60,8,2024-06-24,2024-08-22,98,7,5,Sara Okonkwo
+CUST-0288,Beacon Dynamics,Starter,Legacy On-Premise,Midwest,Education,Active,9100,758,50,9,2024-01-31,2024-06-03,243,6,5,Tom Wilder
+CUST-0289,Summit Technologies,Starter,Data Pipeline Suite,International,Retail,Active,8200,683,79,10,2024-03-07,2024-06-21,207,58,15,Jordan Lee
+CUST-0290,Summit Group,Enterprise,Reporting Dashboard,Pacific Northwest,Education,Active,180200,15017,86,1,2024-04-24,2024-06-27,159,33,10,Sara Okonkwo
+CUST-0291,Nexus Systems,Starter,Legacy On-Premise,Northeast,Manufacturing,Active,9100,758,79,10,2024-03-21,2024-05-03,193,54,16,Sara Okonkwo
+CUST-0292,Nexus Systems,Growth,Reporting Dashboard,Southeast,Technology,Active,30300,2525,90,9,2024-07-25,2024-09-21,67,5,7,Sara Okonkwo
+CUST-0293,Vertex Dynamics,Growth,Cloud Analytics Pro,Midwest,Education,Active,36100,3008,61,-1,2024-01-19,2024-08-09,255,35,17,Jordan Lee
+CUST-0294,Nexus Technologies,Starter,Data Pipeline Suite,Midwest,Finance,At Risk,4900,408,43,10,2024-08-20,2024-09-18,41,35,10,Marcus Chen
+CUST-0295,Peak Systems,Starter,Data Pipeline Suite,Pacific Northwest,Finance,Churned,4800,400,80,8,2024-05-29,2024-06-04,124,0,17,Jordan Lee
+CUST-0296,Beacon Systems,Enterprise,Legacy On-Premise,Pacific Northwest,Finance,Active,141600,11800,76,4,2024-07-20,2024-08-03,72,29,6,Marcus Chen
+CUST-0297,Beacon Dynamics,Enterprise,Cloud Analytics Pro,Midwest,Retail,Active,148800,12400,86,0,2024-09-12,2024-09-26,18,33,0,Tom Wilder
+CUST-0298,Atlas Solutions,Growth,Data Pipeline Suite,International,Healthcare,Active,39200,3267,63,8,2024-06-13,2024-08-30,109,56,16,Sara Okonkwo
+CUST-0299,Peak Solutions,Growth,Reporting Dashboard,Southeast,Retail,Active,42200,3517,63,7,2024-09-19,2024-09-30,11,53,9,Tom Wilder
+CUST-0300,Vertex Dynamics,Growth,Reporting Dashboard,Southeast,Education,Active,15300,1275,66,8,2024-06-14,2024-08-15,108,48,3,Tom Wilder
