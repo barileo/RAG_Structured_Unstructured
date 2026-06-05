@@ -12,7 +12,11 @@ def build_retriever(docs: list[Document]) -> EnsembleRetriever:
     - Dense handles semantic queries
     - BM25 handles exact matches (IDs, names, codes in CSVs)
     """
-    embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
+    # Large embedding costly
+    # embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
+
+    # Small embeddins
+    embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
 
     # Dense vector store
     vector_store = FAISS.from_documents(docs, embeddings)
